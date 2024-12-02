@@ -36,3 +36,4 @@
 /.arch
 /kernel8.img
 /kernel8.img.elf
+.DS_Store
